@@ -14,9 +14,9 @@ int add_int(float a, double b, long double c){
 }
 
 int main(){
-    float a = 2.1;
-    double b = 3.9;
-    long double c = 4.6;
+    float a = 2.5f;
+    double b = 2.0;
+    long double c = 5.223;
 
     int learnerResult = add_int(a, b, c);
     
