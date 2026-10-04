@@ -25,7 +25,7 @@ double CalculateTotalCost(std::vector<Resource> resources){
 
         // Essential resource 'E' has no tax, so no change is needed
         
-        result += costWithTax;
+        result += costWithTax;//yea ight
     }
     
     return result;
