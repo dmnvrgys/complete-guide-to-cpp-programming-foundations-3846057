@@ -31,4 +31,6 @@ int main(){
     
     std::cout << std::endl << std::endl;
     return 0;
+
+    //Code should return {3, 7, 8}
 }
